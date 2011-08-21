@@ -10,7 +10,7 @@ public class Grid {
     private Cell[][] cells;
     
     
-    private GridReader gridReader = new GridReader();;
+    private GridReader gridReader = new GridReader();
     private GridWriter gridWriter = new GridWriter();
 
     public Grid(String gridContents) {
